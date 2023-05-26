@@ -26,11 +26,11 @@ This is a base project for React Native that includes various technologies and p
 
 To get started with this base project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-native-base-project.git`
+1. Clone the repository: `git clone https://github.com/felipefreitasa/react-native-base-project.git`
 
 2. Install dependencies: `cd react-native-base-project` and `npm install` or `yarn install`
 
-3. Start the development server: `npm start` or `yarn start`
+3. Start the development server: `npx expo start`
 
 5. Make changes to the project to fit your specific requirements and start building your React Native app!
 
